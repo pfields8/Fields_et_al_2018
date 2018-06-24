@@ -11,7 +11,7 @@ All scripts written for python 2.7
 - SaddlePlot.py  
   
 - Trans_Colocalization_HIC.py  
- - Trans_Colocalization_Parameters.conf  
+  - Trans_Colocalization_Parameters.conf  
 
 - FISH_Distances.py  
- - FISH_parameters.conf  
+  - FISH_parameters.conf  
